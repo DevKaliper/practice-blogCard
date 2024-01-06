@@ -92,4 +92,10 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 # practice-blogCard
-# practice-blogCard
+
+
+## Estimo que me costará 1 hora desarrollarlo
+
+### inicio -> 3:55 pm
+
+## Termino -> 4:42 pm
